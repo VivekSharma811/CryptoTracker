@@ -28,6 +28,9 @@ The primary language for Android development, Kotlin is chosen for its modern sy
 ### Jetpack Compose: 
 As a declarative UI toolkit, Jetpack Compose simplifies the process of building complex and responsive UIs. It enables developers to write UI code that is less error-prone and more adaptable to various device screens.
 
+### Jetpack Compose Canvas:
+Leveraged Jetpack Compose Canvas to make Interactive Line chart for showing the Data points to the user.
+
 ### Material 3: 
 By implementing the latest Material Design guidelines, the app achieves a cohesive and visually appealing appearance. Material 3 components ensure the app is visually consistent with modern Android apps, providing a familiar experience for users.
 
