@@ -1,4 +1,4 @@
-package com.hypheno.cryptotracker.util
+package com.hypheno.cryptotracker.core.domain.util
 
 import com.hypheno.cryptotracker.R
 

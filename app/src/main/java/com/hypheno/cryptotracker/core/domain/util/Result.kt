@@ -1,4 +1,4 @@
-package com.hypheno.cryptotracker.util
+package com.hypheno.cryptotracker.core.domain.util
 
 typealias DomainError = Error
 
