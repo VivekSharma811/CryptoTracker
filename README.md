@@ -2,7 +2,7 @@
 CryptoTracker is a mobile application designed to provide users with real-time updates on cryptocurrency prices, market trends, and more. With a focus on providing an intuitive experience, the app supports both light and dark themes with dynamic colors for an adaptive user interface.
 
 ## Key Features
-***Real-time Price Updates***: Access up-to-date prices for popular cryptocurrencies.
+***Real-time Price Updates***: Access up-to-date prices for popular cryptocurrencies.<br>
 ***Market Trends***: Track price history and view trends for selected cryptocurrencies.
 ***Intuitive UI***: Built with Jetpack Compose, providing a smooth and user-friendly experience.
 ***Theming Support***: Choose between Light and Dark themes, with adaptive dynamic colors.
