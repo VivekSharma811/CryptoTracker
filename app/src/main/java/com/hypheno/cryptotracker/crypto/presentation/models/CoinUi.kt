@@ -2,7 +2,7 @@ package com.hypheno.cryptotracker.crypto.presentation.models
 
 import androidx.annotation.DrawableRes
 import com.hypheno.cryptotracker.crypto.domain.Coin
-import com.hypheno.cryptotracker.core.domain.util.getDrawableIdForCoin
+import com.hypheno.cryptotracker.core.presentation.util.getDrawableIdForCoin
 import java.text.NumberFormat
 import java.util.Locale
 
